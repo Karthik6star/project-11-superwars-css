@@ -1,4 +1,32 @@
 .footer{
   margin-left : 80px;
   font-size : 18px;
+  
 }
+.container{
+  display:grid;
+  background-color:rgb(193, 165, 216);
+  padding: 30px;
+  width: 900px;
+  grid-auto-flow: column;
+  grid-gap:10px;
+  height:400px;
+ justify-items: center;
+ j
+}
+.scontainer{
+  display: grid;
+  text-align: center;
+  height:200px;
+  width: 150px;
+  justify-content: center;
+  background-color: white;
+  border-radius: 2px;
+  border-color: black;
+  font-weight: bold;
+
+}
+.score{
+font-size: xx-large;
+}
+
